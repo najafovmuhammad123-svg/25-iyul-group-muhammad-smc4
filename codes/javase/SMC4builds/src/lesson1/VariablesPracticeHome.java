@@ -1,6 +1,6 @@
 package lesson1;
 
-public class hello {
+public class VariablesPracticeHome {
     public static void main(String[] args) {
         int studentAge = 25;
 		double carPrice = 25000;	
