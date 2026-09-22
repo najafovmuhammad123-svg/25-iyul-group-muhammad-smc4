@@ -7,9 +7,9 @@ public class PrimitiveVar {
 		char c = 'A';
 		boolean d = true;
 		  
-	        System.out.println(a);
-	        System.out.println(b);
-	        System.out.println(c);
-	        System.out.println(d);
+	        System.out.println("Count: " + a); 
+	        System.out.println("Product Price: " + b);
+	        System.out.println("Symbol:" + c);
+	        System.out.println("Boolean:" + d);
 	}
 }
